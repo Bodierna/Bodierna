@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm MSc. Bruno Almeida Odierna.
+### I've been working as a Project Manager for the past 10yrs, however always have been a data enthusiast (that's my Masters area BTW) and now I'm here to share some of my projects and researchs.
 
 <!--
 **Bodierna/Bodierna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
